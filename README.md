@@ -1,2 +1,2 @@
 # StatsHelper
-Short script for stats because calculating shit is obnoxious in programs that can't read input
+Short script for stats because calculating stuff is easier from this than minitab
